@@ -1,0 +1,11 @@
+langchain
+huggingface_hub
+chromadb
+tiktoken
+faiss-cpu
+sentence_transformers
+FlagEmbedding
+langchainhub
+flask
+Flask-Cors
+openai
